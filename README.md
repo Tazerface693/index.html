@@ -15,7 +15,7 @@ HTML Practice
 <img src="https://a.espncdn.com/i/infographics/20161024_westbrook/jordan_stats8.jpg">
 ---   
 <li><h3>James Harden (The Beard)</h3></li>
-   [This man was insane back in 2019, he had a stretch where he had an average of 38 points per game. He might be trash on defense, but he was going ham back in the day.]
+   
    <a href="https://www.youtube.com/watch?v=rHG4uHOY5SM">[This man was insane back in 2019, he had a stretch where he had an average of 38 points per game. He might be trash on defense, but he was going ham back in the day.</a>
 
 <img src="https://pbs.twimg.com/media/EKrKWo9W4AAOiNz.jpg">
